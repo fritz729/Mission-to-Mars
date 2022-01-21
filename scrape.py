@@ -103,7 +103,6 @@ def mars_facts():
 
 def hemispheres(browser):
     # ## D1: Scrape High Resolution Image of Mars' Hemispheres with Titles
-
     # 1. Use browser to visit the URL 
     url = 'https://marshemispheres.com/'
 
